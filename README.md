@@ -1,5 +1,5 @@
 # Data-analyze-with-Strams
-
+# The Kutaisi International University assignment of Fundamentals of programming (FoP) by Nikoloz Aneli
 In this assignment, you should analyze a read data set by means of Streams. The given data set is a scientific freely available data set.
 
 The template consists of the classes CSVReading with the method processInputFile which must return a Stream<PenguinData>, PenguinData corresponding to a particular data point, Penguin into which you later are meant to transform PenguinData, and Geo for the measured position.
